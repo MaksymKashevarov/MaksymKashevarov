@@ -8,13 +8,21 @@
   Building modular systems, automation pipelines, and gameplay architecture.
 </p>
 
+<p align="center">
+  <a href="https://github.com/ATeNeGit">
+    <img src="https://img.shields.io/badge/Organization-ATeNeGit-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Project-ARC_Cloud_Runtime-0062AD?style=flat-square&logo=azurefunctions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context-ATeNe_GmbH-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
+</p>
+
 ---
 
 ## Featured Work
 
 ### ARC Cloud Runtime
 
-Private internal cloud platform for automated document-generation workflows.
+Private internal cloud platform developed for ATeNe GmbH and maintained under the ATeNeGit organization.
 
 ```text
 SharePoint
