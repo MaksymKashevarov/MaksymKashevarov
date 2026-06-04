@@ -10,10 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/ATeNeGit">
-    <img src="https://img.shields.io/badge/Organization-ATeNeGit-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ATeNeGit-Organization-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Project-ARC_Cloud_Runtime-0062AD?style=flat-square&logo=azurefunctions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context-ATeNe_GmbH-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
 </p>
 
 ---
