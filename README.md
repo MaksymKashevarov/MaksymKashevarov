@@ -12,9 +12,9 @@
 
 ## Featured Work
 
-### [ARC Cloud Runtime](https://github.com/MaksymKashevarov/atene-arc-cloud-runtime)
+### ARC Cloud Runtime
 
-Cloud execution layer for automated document-generation workflows.
+Private internal cloud platform for automated document-generation workflows.
 
 ```text
 SharePoint
@@ -79,21 +79,29 @@ One employee
 
 Batch requests and imported workbooks are processed through repeated calls to the same single-document generators.
 
+> The source repository is private because the runtime contains internal workflow logic and infrastructure-specific implementation details.
+
 ---
 
 ## Selected Projects
 
-### [ARC Cloud Runtime](https://github.com/MaksymKashevarov/atene-arc-cloud-runtime)
+### ARC Cloud Runtime
 
-Cloud runtime for ARC workflows using Azure Functions, Power Automate, SharePoint, Python, openpyxl, and Microsoft Graph.
+Private cloud runtime for automated workflow processing using Azure Functions, Power Automate, SharePoint, Python, openpyxl, and Microsoft Graph.
 
-### [LLMWorkshop](https://github.com/MaksymKashevarov/LLMWorkshop)
+The system handles structured requests, batch processing, workbook imports, document generation, validation, SharePoint delivery, and request lifecycle management.
 
-Original modular reporting system for German Stundenzettel generation. The project became the foundation for the later ARC cloud runtime.
+### LLMWorkshop
+
+Private modular reporting runtime for German Stundenzettel generation.
+
+The project established the original reporting architecture, reusable builder pipeline, calendar logic, validation flow, and the foundation for the later ARC cloud runtime.
 
 ### InjectDustry
 
 Unity dependency injection and composition framework focused on explicit initialization, modular system assembly, and predictable lifecycle management.
+
+The framework was designed to keep component interaction readable and intentional without hiding the system structure behind unnecessary abstraction.
 
 ---
 
