@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="ARC Banner" width="100%" />
-</p>
-
 <h1 align="center">Maksym Kashevarov</h1>
 
 <p align="center">
